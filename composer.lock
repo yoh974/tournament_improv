@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "77185170b74b82cb0aa541d6772eacca",
@@ -5058,6 +5058,7 @@
                 "mime-type"
             ],
             "time": "2020-03-27T16:56:45+00:00"
+<<<<<<< HEAD
         },
         {
             "name": "symfony/options-resolver",
@@ -5177,6 +5178,8 @@
             "description": "Symfony PHPUnit Bridge",
             "homepage": "https://symfony.com",
             "time": "2020-03-27T16:56:45+00:00"
+=======
+>>>>>>> origin/master
         },
         {
             "name": "symfony/polyfill-intl-idn",
